@@ -1,0 +1,520 @@
+,title,session-type,themes,categories,gender
+Sarah Battersby,All Over the Map! Level Up your Spatial Vizzes,Session,Data and Analytics Skills,No categories,female
+Ashwin Kumar,A Beginner's Guide to Maps,Session,Data and Analytics Skills,No categories,unknown
+Eric Freeman,Just a Dash of Inspiration: Effective Visual Design,Hands-on Training,Dashboard and Design,No categories,male
+Maddie Rawding,Just a Dash of Inspiration: Effective Visual Design,Hands-on Training,Dashboard and Design,No categories,female
+Zach Ahrens,Agility and Deployment Best Practices,Session,Data Culture,No categories,male
+Sanjeev Verma,Centralized Row-Level Security,Session,Data Management,No categories,male
+Miranda Osterheld,Tableau Hacks: Use Tableau Server to Fit Your Workflow,Session,Data Culture,No categories,female
+Ann Jackson,Zen Master: Tableau Speed Tipping,Session,Data and Analytics Skills,No categories,female
+Lorna Eden,Zen Master: Tableau Speed Tipping,Session,Data and Analytics Skills,No categories,female
+Priyatham  Pamu,"Understanding Tableau Queries, Techniques and Tools to Use",Session,Data Management,No categories,unknown
+Lingyan Yin,"Understanding Tableau Queries, Techniques and Tools to Use",Session,Data Management,No categories,unknown
+Charles Severn,Brown Advisory:  Journey to the Cloud: Building an Analytics Program with Tableau and Snowflake,Session,Data Management & Data Culture,No categories,male
+Scott  Smith,Seeing and Understanding Your AWS Journey with Tableau,Session,Tableau at Scale,No categories,male
+Noel Carter,"Build Your First Tableau Extension, Part 2",Hands-on Training,Embedded Analytics & Tableau Community,No categories,male
+Bryan Medeiros,"Build Your First Tableau Extension, Part 2",Hands-on Training,Embedded Analytics & Tableau Community,No categories,male
+Maximilian Osenberg,Performance Best Practices for Hyper Extracts,Session,Data Management,No categories,male
+Jonas Eckhardt,Hyper API: Using Hyper for Turbocharged Extract Creation,Session,Smart Analytics & Embedded Analytics,No categories,male
+N,Visual Analytics: Theory and Best Practices,Training Workshop,Data and Analytics Skills & Dashboard and Design,No categories,unknown
+o,Visual Analytics: Theory and Best Practices,Training Workshop,Data and Analytics Skills & Dashboard and Design,No categories,unknown
+ ,Visual Analytics: Theory and Best Practices,Training Workshop,Data and Analytics Skills & Dashboard and Design,No categories,unknown
+s,Visual Analytics: Theory and Best Practices,Training Workshop,Data and Analytics Skills & Dashboard and Design,No categories,unknown
+p,Visual Analytics: Theory and Best Practices,Training Workshop,Data and Analytics Skills & Dashboard and Design,No categories,unknown
+e,Visual Analytics: Theory and Best Practices,Training Workshop,Data and Analytics Skills & Dashboard and Design,No categories,unknown
+a,Visual Analytics: Theory and Best Practices,Training Workshop,Data and Analytics Skills & Dashboard and Design,No categories,unknown
+k,Visual Analytics: Theory and Best Practices,Training Workshop,Data and Analytics Skills & Dashboard and Design,No categories,unknown
+r,Visual Analytics: Theory and Best Practices,Training Workshop,Data and Analytics Skills & Dashboard and Design,No categories,unknown
+Anna Lee,"Five Steps to Fabulous Dashboards: Tips and Tricks, Part 1",Session,Dashboard and Design,No categories,female
+Steve Dennett,NetJets: Taking Flight with Dashboard Scoring. Our Journey to Build Better Dashboards,Session,Dashboard and Design & Data Culture,No categories,male
+Timo Tautenhahn,Drag & Drop Analytics is Too Complicated for your Customers?,Session,Embedded Analytics & Tableau Community,No categories,male
+Jackson Huang,Drag & Drop Analytics is Too Complicated for your Customers?,Session,Embedded Analytics & Tableau Community,No categories,male
+Adrian  Fivaz,Tableau Viz Games Made Easy and Awesome!,Session,Tableau Community & Data Culture,No categories,male
+Dave Ward,Tableau Viz Games Made Easy and Awesome!,Session,Tableau Community & Data Culture,No categories,male
+Simon Beaumont,Zen Master: 50 Reasons your Organization Should Have a Center of Excellence,Session,Data Culture,No categories,male
+Emma Whyte,Zen Master: 50 Reasons your Organization Should Have a Center of Excellence,Session,Data Culture,No categories,female
+Brian Carver,Raise the Bar with the Latest Dashboard Objects,Session,Dashboard and Design,No categories,male
+Wenyan Zhou,Raise the Bar with the Latest Dashboard Objects,Session,Dashboard and Design,No categories,unknown
+Adiáscar Cisneros,Tableau Server on AWS: Tips and Tricks,Session,Tableau at Scale,No categories,unknown
+Danny Wasserman,Tableau Licensing Made Easy (for Tableau Partners only),Session,Tableau at Scale,Sales,male
+Michael Widell,Compete to Win (for Tableau Partners only),Session,Data Culture & Tableau at Scale,Sales,male
+Arlo Paranhos,Next Gen Analytics with Tableau in Google Cloud Platform,Session,Tableau at Scale,No categories,male
+Wilson Po,Vroom Vroom! Performance Tuning Your Dashboards,Hands-on Training,Dashboard and Design,No categories,male
+Heather Gough,JPMorgan Chase: Implementing our Tableau Blueprint Skill Belt Program,Session,Data Culture,Financial Services,female
+Justin Craycraft,Leveraging the Hyper API to build sophisticated data models,Session,Embedded Analytics & Tableau Community,No categories,male
+Jaclyn Rajan,The Vanguard Group: 6σ + Tableau = ∞ solutions,Session,Data and Analytics Skills,No categories,female
+Jeffrey Witt,The Vanguard Group: 6σ + Tableau = ∞ solutions,Session,Data and Analytics Skills,No categories,male
+Joel Hutchison,Understand your Tableau Assets with the Metadata API,Hands-on Training,Embedded Analytics & Tableau Community,No categories,male
+Vlad Usatin,Tableau Server Security in Depth: Hands-on,Hands-on Training,Tableau at Scale,No categories,male
+Tracy Roth,BlueCross BlueShield of AZ: Enabling Healthcare Strategy with a Cosmic User Experience,Session,Data Culture,Healthcare,mostly_female
+Justin Hinckfoot,BlueCross BlueShield of AZ: Enabling Healthcare Strategy with a Cosmic User Experience,Session,Data Culture,Healthcare,male
+Dakota Bagwell,State of Indiana: How Tableau Prep Saved Our End-user Experience,Session,Data Management,Public Sector,mostly_male
+Daniel Grady,Make your Data Sparkle with Tableau Prep,Hands-on Training,Data Management,No categories,male
+Kyle Santamaria,Make your Data Sparkle with Tableau Prep,Hands-on Training,Data Management,No categories,mostly_female
+Mrinal Daryani,Speaking the Language of Data,Session,Smart Analytics,No categories,female
+G. Marc Turner,Texas State University: Tips and Tricks for Tracking People Over Time with Tableau Prep Builder,Session,Data Management,Education,unknown
+Michael Cox,Tableau Blueprint: The Hammer and Nail Edition,Session,Data Culture,No categories,male
+Michael Kovner,You Did WHAT with the Extensions API?,Session,Embedded Analytics & Tableau Community,No categories,male
+Michael Wansley,You Did WHAT with the Extensions API?,Session,Embedded Analytics & Tableau Community,No categories,male
+Josh Weyburne,The Forecast Looks Bright: Tableau Forecasting,Session,Data and Analytics Skills,No categories,male
+Alex Sanginov,ServiceNow: The Only Analytics Strategy Your Company Needs,Session,Dashboard and Design & Data Culture,No categories,male
+Satish Mallavolu,ServiceNow: The Only Analytics Strategy Your Company Needs,Session,Dashboard and Design & Data Culture,No categories,mostly_male
+Vikram Bandarupalli,AWS Cloud Formation for Server Deployment,Session,Tableau at Scale,No categories,male
+Mehmet Vanli,Integration for Advanced Analytics,Session,Data and Analytics Skills,No categories,male
+Ashley Mitchell,Introduction to Sets,Session,Data and Analytics Skills,No categories,mostly_female
+Gordon Roland,"KPMG: Analyze, Visualize, Comply. Analytics for Managing Risk",Session,Data Culture,Finance,male
+Ranjit Sandhu,Equinix’s Enterprise Data & Analytics Platform Transformation Journey,Session,Data and Analytics Skills,No categories,mostly_male
+Deepak Kler,Equinix: From Data to Insights using Ask Data: Empowering Users with NLP,Session,Smart Analytics,No categories,mostly_male
+Jyotirmayi Malapaka,Equinix: From Data to Insights using Ask Data: Empowering Users with NLP,Session,Smart Analytics,No categories,unknown
+Alan Doerhoefer,Deployment Considerations for Tableau Server,Session,Tableau at Scale,No categories,male
+Stephanie Potter,Deployment Considerations for Tableau Server,Session,Tableau at Scale,No categories,female
+Darren McGurran,Introduction to Calcs: What is a Calculation?,Hands-on Training,Data and Analytics Skills,No categories,male
+Laura Zachary,Introduction to Calcs: What is a Calculation?,Hands-on Training,Data and Analytics Skills,No categories,female
+Jim Webb,Best Practices for Updating your Analytics Strategy,Session,Data Culture,No categories,male
+Alicja Niewczas,Unlock New Sources with Tableau Web Data Connectors,Hands-on Training,Embedded Analytics & Tableau Community,No categories,female
+Vidya Setlur,"Natural language, Ask Data and other Tableau stories",Session,Smart Analytics,No categories,mostly_female
+Prakash Kava,Eating One's Dog Food: Using Telemetry at Scale and Understanding User Intent,Session,Smart Analytics,No categories,mostly_male
+Samuel Osborn,Tableau Prep Conductor: Configuring and Administering the new Data Management add-on,Session,Data Management,No categories,male
+Steven McDonald,Tableau Prep Conductor: Configuring and Administering the new Data Management add-on,Session,Data Management,No categories,male
+Helena Niu,General Dynamics: I Want a Piece of That,Session,Data Culture,Public Sector,female
+Jie Deng,What’s New with the SAP HANA Connector,Session,Data Management,No categories,andy
+Evan Rademacher,What’s New with the SAP HANA Connector,Session,Data Management,No categories,male
+Aaron Dane,How Expedia Evolved from On-Premise to the Cloud,Session,No theme,No categories,male
+David Smith,How Expedia Evolved from On-Premise to the Cloud,Session,No theme,No categories,male
+Matt Snyder,StriveTogether: Using Data to Build Communities for Social Impact,Session,Tableau Community & Dashboard and Design,Public Sector,male
+Debbie Lieberman,StriveTogether: Using Data to Build Communities for Social Impact,Session,Tableau Community & Dashboard and Design,Public Sector,female
+Kristin McManus,HotelTonight: How to get Stakeholders in Bed with your Data,Session,Data Culture,Sales,female
+Abhishek Singh,Tableau OKTA Integration,Session,Tableau at Scale,No categories,unknown
+Ruben Tip,Blending Versus (cross)-Database Joins,Session,Data Management,No categories,male
+Henk Koelewijn,Blending Versus (cross)-Database Joins,Session,Data Management,No categories,male
+Hermon Mike,Managing and Leveraging Data with Tableau Online,Session,Data Management,No categories,unknown
+Jason Huffman,Managing and Leveraging Data with Tableau Online,Session,Data Management,No categories,male
+Parmanand Jagerdeo,FINRA: Auditing using Tableau,Session,Data and Analytics Skills,No categories,unknown
+Stephanie Rutter,FINRA: Auditing using Tableau,Session,Data and Analytics Skills,No categories,female
+Anthony Ordner,Using Data as a Trusted Partner with Vertica and Tableau,Session,Data Culture & Data Management,No categories,male
+Raul Persa,Performance Best Practices for Hyper Extracts,Session,Data Management,No categories,male
+Jan Finis,Hyper API: Using Hyper for Turbocharged Extract Creation,Session,Smart Analytics & Embedded Analytics,No categories,male
+Kent Marten,All Over the Map! Level Up your Spatial Vizzes,Session,Data and Analytics Skills,No categories,male
+Andrew Kritzer,From License to Landing,Session,Tableau at Scale,No categories,male
+Kyle Gupton,Create and Publish Accessible Dashboards in Tableau,Session,Dashboard and Design,Public Sector,mostly_female
+Irwin Dolobowsky,Automation and Integration APIs,Session,Embedded Analytics & Tableau Community,No categories,male
+Russell Hay,Automation and Integration APIs,Session,Embedded Analytics & Tableau Community,No categories,male
+James Lenihan,Revenue and Pricing Analytics,Session,Data and Analytics Skills,Finance,male
+Larry Clark,Tableau + Python = ❤,Hands-on Training,Smart Analytics,No categories,male
+Sagar Kapoor,Is Your Tableau Deployment Creating Value?,Session,Data Culture,No categories,male
+Sudharshan Seerapu,Is Your Tableau Deployment Creating Value?,Session,Data Culture,No categories,unknown
+Nathan Mannheimer,Even More Data Science Applications in Tableau,Session,Smart Analytics,No categories,male
+Jon Daniels,A CFO’s Playbook for Running on Data,Session,Smart Analytics,No categories,male
+Ashley Howard,The Beautiful Science of Data Visualization,Session,Data and Analytics Skills,No categories,mostly_female
+Tobias Muehlbauer,The Research Behind the Hyper Database,Session,Data Management,No categories,male
+Tara Morton,Making Friends with Stats,Session,Data and Analytics Skills,No categories,female
+Jacob Vann,Lending Tree: Enabling Near Real Time Alerts for Digital Marketing and Product Analytics,Session,Embedded Analytics,Financial Services,male
+Abby Kuang,Lending Tree: Enabling Near Real Time Alerts for Digital Marketing and Product Analytics,Session,Embedded Analytics,Financial Services,female
+Andrea Tatum,"Practically Perfect: A Practical Guide to Guided Analytics, Part 2",Hands-on Training,Dashboard and Design,No categories,female
+Sarah Bohannon,"Practically Perfect: A Practical Guide to Guided Analytics, Part 2",Hands-on Training,Dashboard and Design,No categories,female
+Mike Madigan,Meeting your Users Half Way: Exporting and Tableau,Session,Data Culture,No categories,male
+Jeremy Blaney,Visualize a Better World with Data and Analytics,Session,Tableau Community,No categories,male
+Ruhaab Markas,Ask Data: The Admins Complete Guide,Hands-on Training,Smart Analytics,No categories,unknown
+Samantha  Kwok,Introduction to Ask Data,Session,Smart Analytics,No categories,female
+Josh Belliveau,Think Outside the Box(plot): Basic Statistics in Tableau,Hands-on Training,Data and Analytics Skills,No categories,male
+Madeline Lee,R…You Ready for Python?,Hands-on Training,Smart Analytics,No categories,female
+Jeff Black,Prep Your Data,Session,Data Management,No categories,male
+Jeremy Walsh,Prep Your Data,Session,Data Management,No categories,male
+William Watkins,Leveraging Explain Data,Session,Data and Analytics Skills,No categories,male
+Nick Beaton,Server CPR,Hands-on Training,Tableau at Scale,No categories,male
+Erin Waldron,Data Dozen: Practical Dashboard Design that Creates Impact that Transforms,Session,Dashboard and Design,No categories,mostly_female
+Rachel Bowes,From 'Hello World' to Saving the World: Advanced Analytics with Python,Session,Smart Analytics,No categories,female
+Richard Tibbetts,Making Business More Bayesian,Session,Data and Analytics Skills,No categories,male
+Konstantin Greger,"Machine Learning, Explainable AI, and Tableau",Session,Smart Analytics,No categories,male
+Jim Sun,How to Excel with Tableau,Session,Data and Analytics Skills,No categories,male
+Yun Zhou,How to Excel with Tableau,Session,Data and Analytics Skills,No categories,andy
+Jonathan Mason,Daimler Trucks North America: Building a Community that Drives Intelligence,Session,No theme,No categories,male
+Luke Stanke,Zen Master: 3...2...1...GO! Two-Minute Tableau Tips and Tricks,Session,Dashboard and Design & Data and Analytics Skills,No categories,male
+Jeffrey Shaffer,Zen Master: 3...2...1...GO! Two-Minute Tableau Tips and Tricks,Session,Dashboard and Design & Data and Analytics Skills,No categories,male
+Ashley Monson,Giving Back With Data,Session,Data Management,No categories,mostly_female
+Christine Xu,Best Practices for Flow Performance in Data Prep,Session,Data Management,No categories,female
+Rapinder Jawanda,Best Practices for Flow Performance in Data Prep,Session,Data Management,No categories,unknown
+Seanna Miller,"Data Everywhere, Tableau for Everyone: Now How to Drive Adoption at Scale",Session,Data Culture,No categories,unknown
+Chad Duffield,"Data Everywhere, Tableau for Everyone: Now How to Drive Adoption at Scale",Session,Data Culture,No categories,male
+Esther Aller,Calculations Survival Guide,Session,Data and Analytics Skills,No categories,female
+James Ryan,Calculations Survival Guide,Session,Data and Analytics Skills,No categories,male
+Christopher Gardner,"University of Michigan: Holistic Reporting of a University, a $10 billion Business, and a Small City",Session,Data Culture & Tableau at Scale,Education,male
+Matthew Pickus,"University of Michigan: Holistic Reporting of a University, a $10 billion Business, and a Small City",Session,Data Culture & Tableau at Scale,Education,male
+Michael Foree,Capital One: Speedy Server Deployment on AWS,Session,Tableau at Scale,Financial Services,male
+Anoop Kunjuramanpillai,Capital One: Speedy Server Deployment on AWS,Session,Tableau at Scale,Financial Services,unknown
+Merlijn Buit,"Zen Master: The What, Why and How’s of Extensions for Tableau",Session,Embedded Analytics,No categories,mostly_male
+Harveen   Kathuria,Tableau Tips for Beginners,Session,Data and Analytics Skills,No categories,unknown
+Kelly Bellinghausen,Tableau Tips for Beginners,Session,Data and Analytics Skills,No categories,mostly_female
+Luiz Oliveira,White-labeling Dashboards,Hands-on Training,Dashboard and Design,No categories,unknown
+Stephen Price,White-labeling Dashboards,Hands-on Training,Dashboard and Design,No categories,male
+Kelsey Perkins,"IBM: Using Tableau to Foster Agile, Data-Driven Culture Change",Session,Data and Analytics Skills & Data Culture,Marketing & Sales,mostly_female
+Scott Larkin,New Hanover Township School: Using Small Data to Drive Large Decisions in Education,Session,Data and Analytics Skills,Education,male
+Xavier Reid,Developer Deep Dive: Building your First Extension,Session,Embedded Analytics & Tableau Community,No categories,male
+Ashwin Sekar,Developer Deep Dive: Building your First Extension,Session,Embedded Analytics & Tableau Community,No categories,unknown
+Ross Bunker,LOD is the Key,Session,Data and Analytics Skills,No categories,male
+Susan Franke,Progressive Insurance: Roar! Creating Fierce Tableau Tiger Teams to Infiltrate Your Company’s Analytics,Session,Data Culture,No categories,female
+Marian Fairman,Progressive Insurance: Roar! Creating Fierce Tableau Tiger Teams to Infiltrate Your Company’s Analytics,Session,Data Culture,No categories,male
+Pierce Young,Getting the Most Out of Tableau on Google Cloud,Session,Tableau at Scale,No categories,male
+Jefferson McMillan - Wilhoit,Lake County Health Dept: Tableau Prep Builder and Conductor at Enterprise Scale,Session,Data Management & Data Culture,Healthcare & Public Sector,male
+Greg Gajauskas,Lake County Health Dept: Tableau Prep Builder and Conductor at Enterprise Scale,Session,Data Management & Data Culture,Healthcare & Public Sector,male
+Richard Wesley,Time Pieces: The Temporal Analytics Jigsaw,Session,Data and Analytics Skills,No categories,male
+Jim Gregory,Humana: How We Created a Silver Bullet Dashboard and Improved Compliance and Efficiency,Session,Embedded Analytics,Healthcare,male
+Tavia Hopfensperger,Humana: How We Created a Silver Bullet Dashboard and Improved Compliance and Efficiency,Session,Embedded Analytics,Healthcare,female
+Nigel Stone,Defense Health Agency: Leadership in Synchronized Healthcare Analytics across All Military Operations,Session,Data Culture,Public Sector,male
+Jeffrey Barnes,Defense Health Agency: Leadership in Synchronized Healthcare Analytics across All Military Operations,Session,Data Culture,Public Sector,male
+Cameron Ford,"Calculation Methods: What, When, Why?",Hands-on Training,Data and Analytics Skills,No categories,mostly_male
+Tyler Shapiro,"Calculation Methods: What, When, Why?",Hands-on Training,Data and Analytics Skills,No categories,mostly_male
+Selchuk Emin,"When Sets Rock, When Parameters Roll",Session,Data and Analytics Skills,No categories,unknown
+Ryan Jimenez,Mad Maps: Advanced Mapping in Tableau,Hands-on Training,Data and Analytics Skills,No categories,mostly_male
+Zach Morris,Mad Maps: Advanced Mapping in Tableau,Hands-on Training,Data and Analytics Skills,No categories,male
+Jill Wooster,Fragomen: Secure Real Time Data in our Customer Portal with Embedded Analytics,Session,Embedded Analytics,No categories,female
+Kevin McConnell,Fragomen: Secure Real Time Data in our Customer Portal with Embedded Analytics,Session,Embedded Analytics,No categories,male
+Michael Cisneros,Zen Master: Beyond Design—Secrets for Creating Engaging and Effective Information Experiences,Session,Dashboard and Design,No categories,male
+Lilach Manheim,Zen Master: Beyond Design—Secrets for Creating Engaging and Effective Information Experiences,Session,Dashboard and Design,No categories,female
+Altin Ilirjani,USAID Global Health: The Implementation of a Data Revolution,Session,Data Culture,Public Sector,male
+Leeza Kondos,USAID Global Health: The Implementation of a Data Revolution,Session,Data Culture,Public Sector,unknown
+Evan Moh,Stanford Health Care: Advancing Patient Experience with Tableau,Session,Dashboard and Design,Healthcare,male
+Joshua Frost,Stanford Health Care: Advancing Patient Experience with Tableau,Session,Dashboard and Design,Healthcare,male
+Hailong Wen,Ali Cloud Platform: Another Great Choice for Tableau Deployment on Cloud,Session,Tableau at Scale,IT and Product Manager,unknown
+Roman Usatin,"Get on it, Stat: Statistical Analysis Skills in Tableau",Hands-on Training,Data and Analytics Skills,No categories,male
+Linh Tran,"Get on it, Stat: Statistical Analysis Skills in Tableau",Hands-on Training,Data and Analytics Skills,No categories,andy
+Kevin Mason,Creating and Expanding Self-Service Analytics using Web Authoring,Session,Tableau at Scale,No categories,male
+Anton Grinevskij,Data Prep: Advanced Prep Features,Session,Data Management,No categories,male
+Zachary Wright,Table Calcs for the Advanced Analyst,Hands-on Training,Smart Analytics,No categories,male
+Chris Tolley,Table Calcs for the Advanced Analyst,Hands-on Training,Smart Analytics,No categories,mostly_male
+Mike Hetrick,Using the Tableau Blueprint Planner,Hands-on Training,Data Culture,No categories,male
+Evgenia Stancheva,Amp Up Your Vizzes: Impactful Dashboard Design,Session,Dashboard and Design,No categories,female
+Fu Hua Shih,Amp Up Your Vizzes: Impactful Dashboard Design,Session,Dashboard and Design,No categories,andy
+Jeff Pettiross,The Other Geeks: Reaching the Experts who aren't Data Nerds,Session,Data and Analytics Skills,No categories,male
+Brook Weatherly,Norwegian Cruise Line: Who needs Desktop when you have Web Authoring?  Our Journey to Web Nirvana.,Session,Embedded Analytics & Data Culture,No categories,mostly_female
+Jessica Ramirez,Norwegian Cruise Line: Who needs Desktop when you have Web Authoring?  Our Journey to Web Nirvana.,Session,Embedded Analytics & Data Culture,No categories,female
+Jesse McConnell,Comcast: Doubling Down on Tableau,Session,Tableau at Scale,No categories,male
+Thomas O'Hara,Comcast: Doubling Down on Tableau,Session,Tableau at Scale,No categories,male
+Kevin Hulbert,Tableau Server Security in Depth: Hands-on,Hands-on Training,Tableau at Scale,No categories,male
+Lee Bond-Kennedy,Tableau Server on AWS: Tips and Tricks,Session,Tableau at Scale,No categories,mostly_male
+Gerard Valerio,Think Outside the Box(plot): Basic Statistics in Tableau,Hands-on Training,Data and Analytics Skills,No categories,male
+Rob Barnhart,Your Swiss Army Knife for Administering Tableau Server,Hands-on Training,Tableau at Scale,No categories,male
+Lauren Kearney,Your Swiss Army Knife for Administering Tableau Server,Hands-on Training,Tableau at Scale,No categories,mostly_female
+Esther Schenau,Get More REST: Automate Your Tableau Life with APIs,Hands-on Training,Embedded Analytics & Tableau Community,No categories,female
+Matthew Platt,Get More REST: Automate Your Tableau Life with APIs,Hands-on Training,Embedded Analytics & Tableau Community,No categories,male
+Ross Helenius,iVantage Health Analytics: Creating an Embedded Application Powered by Tableau,Session,Embedded Analytics,Healthcare,male
+Justin Russell,iVantage Health Analytics: Creating an Embedded Application Powered by Tableau,Session,Embedded Analytics,Healthcare,male
+Hideyuki Katsumoto,Rakuten: Case Study of fully Cashless Stadium Project for Japanese Professional Baseball team,Session,Data and Analytics Skills & Smart Analytics,No categories,male
+Dennis Bromley,The Tableau Secret Lab: From Brainstorms to Features,Session,Tableau Community,No categories,male
+Alicino Moura,The Imperial March: Deploying Tableau on Linux,Hands-on Training,Tableau at Scale,No categories,unknown
+Josh Davis,The Imperial March: Deploying Tableau on Linux,Hands-on Training,Tableau at Scale,No categories,male
+Casey Berger,"Data Integration: Blending Versus Cross-Database Joins, Part 1",Hands-on Training,Data Management,No categories,andy
+Richard Durval,"Data Integration: Blending Versus Cross-Database Joins, Part 1",Hands-on Training,Data Management,No categories,male
+Matthew Battistella,Leveraging Tableau to Create a Culture of Data Analysis on the Trading Floor at Bank Of America,Session,Data Culture,No categories,male
+Kirupakaran Seshachalam,Leveraging Tableau to Create a Culture of Data Analysis on the Trading Floor at Bank Of America,Session,Data Culture,No categories,male
+Lauren Cziok,Accenture: Data Donuts Power Today's Police Force,Session,Tableau at Scale,Public Sector,mostly_female
+Greg Kauper,Accenture: Data Donuts Power Today's Police Force,Session,Tableau at Scale,Public Sector,male
+Michael Raper,Center for Creative Leadership: Put that Wide Data on a Diet!,Session,Data Management,Finance,male
+Braxton Ehle,Securing Tableau Online: Protecting Data as a Service,Session,Tableau at Scale,No categories,male
+Robert Kincaid,Recommendation Systems at Tableau,Session,Smart Analytics,No categories,male
+Mya Warren,Recommendation Systems at Tableau,Session,Smart Analytics,No categories,female
+Beth Sandor,Community Solutions: How Communities are using Data to Drive System Performance,Session,Embedded Analytics,No categories,female
+Jake Maguire,Community Solutions: How Communities are using Data to Drive System Performance,Session,Embedded Analytics,No categories,male
+Casey O'Donnell,Get your FIX with this Level of Detail Session!,Hands-on Training,Data and Analytics Skills,No categories,andy
+Oliver Inca,Get your FIX with this Level of Detail Session!,Hands-on Training,Data and Analytics Skills,No categories,male
+Matthew Flaherty,Naval Air Systems Command: Maximizing Mission Capability with Tableau,Session,Embedded Analytics & Data Culture,Public Sector,male
+Noha Elprince,Manulife: Securing your Data Access with Governance,Session,Tableau at Scale & Data and Analytics Skills,Financial Services,female
+Allan Ma,Manulife: Securing your Data Access with Governance,Session,Tableau at Scale & Data and Analytics Skills,Financial Services,male
+Steve Holden,Fannie Mae: Driving Analytics Deep into our Business,Session,Tableau at Scale,Financial Services & Public Sector,male
+Chetna Bail,Dropbox and Metric Insights: Learn how Dropbox Drives User Engagement with BI Across Their Organization,Session,No theme,No categories,unknown
+Ravi Poruri,Dropbox and Metric Insights: Learn how Dropbox Drives User Engagement with BI Across Their Organization,Session,No theme,No categories,mostly_male
+Jonathan Varkovitzky,Tuning Tableau Server: Performance Best Practices,Session,Tableau at Scale,No categories,male
+Evan Slotnick,Tableau Online Admin Experience: All the Flexibility Without the Headache,Session,Tableau at Scale,No categories,male
+Jesse Sturges,First-time Deployment: Tableau Server on AWS,Hands-on Training,Tableau at Scale,No categories,male
+Nicolas Fuentes,First-time Deployment: Tableau Server on AWS,Hands-on Training,Tableau at Scale,No categories,male
+Maureen Reilly,The Creator's Field Guide: How Tableau Professional Services Delivers,Session,Data and Analytics Skills,No categories,female
+Ben Porter,The Creator's Field Guide: How Tableau Professional Services Delivers,Session,Data and Analytics Skills,No categories,male
+Angel Certeza,Top of the Table: Winning with Table Calcs,Hands-on Training,Data and Analytics Skills,No categories,male
+Katherine Mace,Top of the Table: Winning with Table Calcs,Hands-on Training,Data and Analytics Skills,No categories,female
+Andy Vadul,Skill Belt for Analytics Proficiency: Gamified Continuous Learning for Large Enterprise Teams,Session,Data Culture,No categories,male
+Jeff El-Koury,Skill Belt for Analytics Proficiency: Gamified Continuous Learning for Large Enterprise Teams,Session,Data Culture,No categories,male
+Paul Isaacs,Tableau in Motion: Tableau’s New Native Viz Animations,Session,Dashboard and Design,No categories,male
+Phil Naranjo,Tableau in Motion: Tableau’s New Native Viz Animations,Session,Dashboard and Design,No categories,male
+Adam Cook,A Practical Guide to Guided Analytics,Session,Dashboard and Design,No categories,male
+Ken Flerlage,"Zen Master: The ""Tableau Twins"" Take You Beyond Show Me",Session,Dashboard and Design,No categories,male
+Kevin Flerlage,"Zen Master: The ""Tableau Twins"" Take You Beyond Show Me",Session,Dashboard and Design,No categories,male
+Lucas Whaley,How a “one-person team” built an impactful reporting analytics platform from the ground up (and achieved 2X growth),Session,No theme,No categories,male
+Erik Teutsch,"On the Road: Tableau Mobile Use Cases, Design and Successful Adoption",Session,Embedded Analytics,No categories,male
+Fearghal Gunning,Tableau on Mobile,Hands-on Training,Dashboard and Design,No categories,male
+Jerrod Travlee,Go with the Flow: Tableau Prep for Beginners,Hands-on Training,Data Management,No categories,male
+Lily Assefi,Go with the Flow: Tableau Prep for Beginners,Hands-on Training,Data Management,No categories,female
+John Kew,Data Science at Home: Amateur Rose Hybridization,Session,Data Management,No categories,male
+Kelvin Liu,"Guiding and Informing with Text, Labels, Tooltips, etc.",Session,Dashboard and Design,No categories,male
+Robert Kosara,"Guiding and Informing with Text, Labels, Tooltips, etc.",Session,Dashboard and Design,No categories,male
+Ridhima Gupta,Dashboard Design with the User in Mind,Session,Dashboard and Design,No categories,unknown
+"Barry Chaiken, MD, MPH","Saving Lives, a Viz at a Time",Session,Data Culture,Healthcare,male
+Matt McWhorter,"Saving Lives, a Viz at a Time",Session,Data Culture,Healthcare,male
+Nicolas Gousakoff,Facebook: A Governance Journey Inspired by Our Values,Session,Tableau at Scale & Data Culture,No categories,male
+JP Loose,Facebook: A Governance Journey Inspired by Our Values,Session,Tableau at Scale & Data Culture,No categories,unknown
+Chantilly Jaggernauth,Zen Master: Design Secrets for a Non-Designer,Session,Dashboard and Design,No categories,unknown
+Hannah Judge,Location Data Anywhere and Everywhere Powered by Mapbox,Session,Data and Analytics Skills,No categories,female
+Brett Hurt,The Roadmap to Beautiful and Meaningful Data,Session,Data Management & Data Culture,No categories,male
+Michael Lucas,Explain Data,Hands-on Training,Smart Analytics,No categories,male
+Matt Ramsey,Explain Data,Hands-on Training,Smart Analytics,No categories,male
+Guilherme  Diniz de Azevedo ,Grupo Pão de Açucar: Using Data to Become the Epitome of Green Retail in Brazil,Session,Tableau Community,Retail,male
+Eduardo Denser Nicácio,Grupo Pão de Açucar: Using Data to Become the Epitome of Green Retail in Brazil,Session,Tableau Community,Retail,male
+Zac Woodall,"On the Road: Tableau Mobile Use Cases, Design and Successful Adoption",Session,Embedded Analytics,No categories,unknown
+Steven Mostello,Developer Platform Overview (for Tableau Partners only),Session,Embedded Analytics,No categories,male
+Prateek Jetly,Tableau Online Architecture and Scalability,Session,Tableau at Scale,No categories,unknown
+Kitty  Chou,Tableau Online Architecture and Scalability,Session,Tableau at Scale,No categories,female
+Carlton Findley,Optimizing Tableau Server for High Availability,Session,Tableau at Scale,No categories,male
+Dan Scott,Optimizing Tableau Server for High Availability,Session,Tableau at Scale,No categories,male
+Bridget Cogley,JSON Doesn’t Need Remind You of Friday the 13th,Session,Data and Analytics Skills & Data Management,No categories,female
+Patrick McCormick,JSON Doesn’t Need Remind You of Friday the 13th,Session,Data and Analytics Skills & Data Management,No categories,male
+Sherry McFarland,The Home Depot:  How we get I.T. Done with Analytics,Session,Data Culture & Tableau at Scale,Retail,female
+Briana Evans,Smarketing: A Sales and Marketing Love Story,Session,Data Culture,Marketing & Sales,female
+Meghan Mclendon,Smarketing: A Sales and Marketing Love Story,Session,Data Culture,Marketing & Sales,female
+Tucker Sjoblad,Can't Touch This: Row Level Security in Tableau,Hands-on Training,Data Management,No categories,male
+James Evans,Can't Touch This: Row Level Security in Tableau,Hands-on Training,Data Management,No categories,male
+Howard Min,Give Us the Deets: LOD Calcs for New Tableau Users,Hands-on Training,Data and Analytics Skills,No categories,male
+Laura Record,Jedi Calcs: Your Calcs Awaken,Hands-on Training,Data and Analytics Skills,No categories,female
+Tim Pritchard,Jedi Calcs: Your Calcs Awaken,Hands-on Training,Data and Analytics Skills,No categories,male
+Ethan Roberts,Gettin' Vizzy with it: Advanced Visualization Types,Hands-on Training,Dashboard and Design,No categories,male
+Katie Geno,Gettin' Vizzy with it: Advanced Visualization Types,Hands-on Training,Dashboard and Design,No categories,female
+Irene Ng,Storytelling: How Brands Can Benefit from Social Media Analytics,Session,Data Culture,Marketing,female
+Alyssa Peck,Bringing Data Science to the End-User with Tableau,Session,Smart Analytics,No categories,female
+Nathaniel Rowe,Third Channel: Democratizing Data for Scalability and Profit with Embedded Analytics,Session,Data Culture,No categories,male
+Ted Kaouk,USDA: Creating a Data-Driven Culture,Session,Data Culture,Public Sector,male
+Benjamin Stone,USDA: Creating a Data-Driven Culture,Session,Data Culture,Public Sector,male
+Scott Webber,Expedia: Making Advanced Analytics Simple with Ask Data,Session,Smart Analytics,No categories,male
+Anand Vamsee (AV) Jonnabhotla,Expedia: Making Advanced Analytics Simple with Ask Data,Session,Smart Analytics,No categories,male
+Silvia Cioffi,Lots of Fun with Level of Details,Session,Data and Analytics Skills,No categories,female
+Ryan Atallah,"Data Roles, Semantics, and Metadata Inheritance Across Data Sources",Session,Smart Analytics,No categories,mostly_male
+Doug Grindel,"PNC Bank: Data Science for Combining Data Visualization, Embedded Analytics, and Machine Learning Models",Session,Smart Analytics,Financial Services,male
+Anthony Brown,Lockheed Martin's Progressive Approach to Powering Adoption at Enterprise Scale,Session,Data Culture & Tableau at Scale,Public Sector,male
+Stephen C. Boffa,Lockheed Martin's Progressive Approach to Powering Adoption at Enterprise Scale,Session,Data Culture & Tableau at Scale,Public Sector,male
+Nick Roush,BNSF Railway: How Migrating from 74 Sites to 2 Tamed the Wild West,Session,Tableau at Scale,No categories,male
+Amy Hsieh,Moving Mindset through Metrics: Agile Transformation at Tableau,Session,Data and Analytics Skills,No categories,female
+Isaac Obezo,Moving Mindset through Metrics: Agile Transformation at Tableau,Session,Data and Analytics Skills,No categories,male
+Robert Bloom,Moving Mindset through Metrics: Agile Transformation at Tableau,Session,Data and Analytics Skills,No categories,male
+Ben Lower,Dashboard Extensions: How to Get Started Writing your Own,Session,Embedded Analytics & Tableau Community,No categories,male
+Adam Diaz,Data Intelligence: From Data Discovery to Business Transformation,Session,No theme,No categories,male
+Gabriel Horwitz,WeWork: Rapid Server Growth & Data-Driven Dashboard Design,Session,Dashboard and Design & Tableau at Scale,No categories,male
+David Hey,WeWork: Rapid Server Growth & Data-Driven Dashboard Design,Session,Dashboard and Design & Tableau at Scale,No categories,male
+Kevin Glover,The Cost of Business: Using Tableau to Uncover Your True Public Cloud Spend,Session,Tableau at Scale,No categories,male
+Jon Parten,Cloud Maturity: The Tableau Journey in the Public Cloud,Session,Tableau at Scale,No categories,male
+Lillian Catts,Visualize a Better World with Data and Analytics,Session,Tableau Community,No categories,female
+Alex Wheeler,"Parameters: Driving Interactivity One Dashboard at a Time, Part 1",Hands-on Training,Data and Analytics Skills,No categories,male
+Geoff Somerville,"Parameters: Driving Interactivity One Dashboard at a Time, Part 1",Hands-on Training,Data and Analytics Skills,No categories,male
+Ann Ho,Tableau Hacks: Use Tableau Server to Fit Your Workflow,Session,Data Culture,No categories,female
+Matthew Caudill,USAA: Breaking the Request Cycle to get from Full Service to Self Service,Session,Data Culture,Financial Services,male
+Ryan Goree,USAA: Breaking the Request Cycle to get from Full Service to Self Service,Session,Data Culture,Financial Services,mostly_male
+Scott King,Tableau + Python = ❤,Hands-on Training,Smart Analytics,No categories,male
+Siddharth Dayama,Verizon: Advanced Customer Service Analytics to drive CX for over 118 million Retail Connections,Session,Embedded Analytics & Smart Analytics,No categories,unknown
+Gregory Mcconney,Verizon: Advanced Customer Service Analytics to drive CX for over 118 million Retail Connections,Session,Embedded Analytics & Smart Analytics,No categories,male
+Nick Goodhartz,Make your Mark (with Tableau),Hands-on Training,Dashboard and Design,No categories,male
+Ryan Lanigan,Make your Mark (with Tableau),Hands-on Training,Dashboard and Design,No categories,mostly_male
+Emiliano Colosimo,"Automation, Automation, Automation",Session,Tableau at Scale,No categories,male
+Kesav Rayaprolu,"Automation, Automation, Automation",Session,Tableau at Scale,No categories,unknown
+Keshia Rose,The API 360: Popular Use Cases with Our Top APIs,Session,Embedded Analytics & Tableau Community,No categories,female
+Geraldine Zanolli,The API 360: Popular Use Cases with Our Top APIs,Session,Embedded Analytics & Tableau Community,No categories,female
+Zaheera Valani,Governance with Tableau Data Management: Very Scenario Focused (Catalog Focus),Session,Data Management,No categories,unknown
+Darlene Adams,PEMCO Insurance: Shifting Mindsets and Driving Adoption in the Claims Department,Session,Data Culture,Financial Services,female
+Tim Hughes,PEMCO Insurance: Shifting Mindsets and Driving Adoption in the Claims Department,Session,Data Culture,Financial Services,male
+Barbara-Jo Achuff,Baylor College: Visualizing Brighter Outcomes for Children with Critical Illness,Session,Data and Analytics Skills,Healthcare & Education,unknown
+Bill Dwyer,CustomTech Software: An Embedded Tableau Solution for Data-Challenged K-12 Data Consumers,Session,Embedded Analytics,Education,male
+Lee Feinberg,CustomTech Software: An Embedded Tableau Solution for Data-Challenged K-12 Data Consumers,Session,Embedded Analytics,Education,mostly_male
+Sarah Cherenack,US Holocaust Memorial Museum: Doing Good Quickly with Rapid Prototyping for the Agile Nonprofit,Session,Dashboard and Design,Public Sector,female
+Shelby Queen,US Holocaust Memorial Museum: Doing Good Quickly with Rapid Prototyping for the Agile Nonprofit,Session,Dashboard and Design,Public Sector,mostly_female
+Filippos Lymperopoulos,Interactive Analytics with Parameter Actions,Session,Data and Analytics Skills,No categories,male
+Stephanie Gr. Kamphake,Hunkemöller: How Europe's largest lingerie retailer uses Tableau to drive Consumer Sales,Session,Data Culture,Retail,female
+Rob Ortiz,"All Meat, No Fillers: Keyence’s Ki Series AI Platform",Session,Data Management & Smart Analytics,No categories,male
+Brian Neely,"All Meat, No Fillers: Keyence’s Ki Series AI Platform",Session,Data Management & Smart Analytics,No categories,male
+Nick Magnusson,The Evolution of Machine Learning,Session,No theme,No categories,male
+Kate Grinevskaja,Data Catalog Introduction and Overview,Session,Data Management,No categories,female
+Becky Wood,PayScale: Bridging the Gap by Facilitating Data-Based Discussions about Pay Equity,Session,Data and Analytics Skills,Finance,female
+Ben Jones,Data Literacy LLC: Eight Data Story Types,Session,Dashboard and Design & Data Culture,No categories,male
+Erin Pemberton,YETI Coolers: A Field Guide to Analytics,Session,Data and Analytics Skills,Retail,mostly_female
+Samuel Santos,YETI Coolers: A Field Guide to Analytics,Session,Data and Analytics Skills,Retail,male
+Adam Cox,YETI Coolers: A Field Guide to Analytics,Session,Data and Analytics Skills,Retail,male
+Richie Bachala,"The Sherwin-Williams Company: Leveraging Integrated, Real World AI and BI",Session,Smart Analytics,No categories,male
+Paul Lampi,Memorial Hermann: Using Tableau to Identify Insights that can Provide Real Change for Healthcare Providers,Session,Data Culture,Healthcare,male
+Sameer Khan,Memorial Hermann: Using Tableau to Identify Insights that can Provide Real Change for Healthcare Providers,Session,Data Culture,Healthcare,male
+Rafi Zelikowsky,Designing a Corporate Standard for your Dashboards,Session,Dashboard and Design,No categories,male
+Peter Jönsson,Getting the Most Out of Tableau on Google Cloud,Session,Tableau at Scale,No categories,male
+Rachel Kalmar,Explaining Data with Automated Bayesian Modeling,Session,Smart Analytics,No categories,female
+Jamie Whitehorn,British Airways:  Our Tableau Journey from Corporate Outlier to Corporate Mainstream,Session,Data Culture & Smart Analytics,No categories,mostly_female
+Amanda Haas,Bristol-Myers Squibb: O2C Americas Achieving Operational Excellence Using Tableau,Session,Data and Analytics Skills,Healthcare & Financial Services,female
+Michael Spence,Transurban: From Zero to Enterprise in Just 18 Months,Session,Tableau at Scale & Data Culture,No categories,male
+Gordon Rose,How to Build a Tableau Portal in 60 Minutes or Less,Session,Embedded Analytics & Tableau Community,No categories,male
+Ron Dugger,How to Build a Tableau Portal in 60 Minutes or Less,Session,Embedded Analytics & Tableau Community,No categories,male
+Alfred Mathena,USAA: Leveraging Tableau to Understand Risk,Session,Tableau at Scale,Financial Services,male
+Mark Rogozinski,"CVS: When You are the Size of a Small Country, All Data is Big.",Session,Data Culture,No categories,male
+Sherri Romano,"CVS: When You are the Size of a Small Country, All Data is Big.",Session,Data Culture,No categories,female
+Gonzalo Gutierrez,"Ready, Set, Go! Sets and Set Actions",Hands-on Training,Data and Analytics Skills,No categories,male
+Michael Hizny,"Ready, Set, Go! Sets and Set Actions",Hands-on Training,Data and Analytics Skills,No categories,male
+Jade Le Van,Next-Level Viz in Tooltip,Session,Data and Analytics Skills,No categories,female
+Jenna Gegg,The Cost of Business: Using Tableau to Uncover Your True Public Cloud Spend,Session,Tableau at Scale,No categories,female
+Joseph Roach,HRSA: Data Analytics for Enhanced Financial Management and Internal Controls,Session,Data and Analytics Skills,Finance & Public Sector,male
+Owen Mead-Robins,Embedding Tableau: A Deep Dive in the JavaScript API,Hands-on Training,Embedded Analytics & Tableau Community,No categories,male
+Ron Theis,Mobile App Bootstrap: Custom Mobile Apps with Embedded Tableau Visualizations,Session,Embedded Analytics & Tableau Community,No categories,male
+Alex Vertin,Mobile App Bootstrap: Custom Mobile Apps with Embedded Tableau Visualizations,Session,Embedded Analytics & Tableau Community,No categories,male
+Rajeev Marwah,Trinet: Embedding Tableau Dashboards into Salesforce,Session,Embedded Analytics,No categories,male
+Mike Crook,Become a Building Block Master: Financial Data Prep,Hands-on Training,Data Management,Finance,male
+Dan Liang,Become a Building Block Master: Financial Data Prep,Hands-on Training,Data Management,Finance,male
+Ashlyn Opgrade,Become a Building Block Master: Financial Data Prep,Hands-on Training,Data Management,Finance,female
+Jessica Wallace,"Automation Hookup: REST, Webhooks, and More",Session,Embedded Analytics & Tableau Community,No categories,female
+Ang  Gao,"Automation Hookup: REST, Webhooks, and More",Session,Embedded Analytics & Tableau Community,No categories,andy
+Jacob Olsufka,Spotify: Making Data Dance with Analytics,Session,Data and Analytics Skills,No categories,male
+Erwin van Laar,"Hot, Hotter, Hyper: How to Handle Big Data",Session,Data Management,No categories,male
+Marius Kaiser,"Hot, Hotter, Hyper: How to Handle Big Data",Session,Data Management,No categories,male
+Dinc Ciftci,A Deep Dive into Encryption at Rest,Session,Tableau at Scale,No categories,unknown
+Jakob Mund,A Deep Dive into Encryption at Rest,Session,Tableau at Scale,No categories,male
+Kirk Munroe,Meeting your Users Half Way: Exporting and Tableau,Session,Data Culture,No categories,male
+Boris Busov,"Advanced Calculations: IF [you attend] THEN ""Calculations Master"" END",Hands-on Training,Data and Analytics Skills,No categories,male
+Reynolds Yarbrough,"Advanced Calculations: IF [you attend] THEN ""Calculations Master"" END",Hands-on Training,Data and Analytics Skills,No categories,unknown
+Mary Grace Glascott,Extending Your Data Catalog into Tableau,Session,Data Management,No categories,mostly_female
+Blair Hutchinson,Extending Your Data Catalog into Tableau,Session,Data Management,No categories,andy
+Bethany Lyons,New Data Modeling Overview,Session,Data and Analytics Skills,No categories,female
+Rachel Robinson,Lead with Data,Session,Tableau Community & Data Culture,No categories,female
+Nena Ballas,Lead with Data,Session,Tableau Community & Data Culture,No categories,female
+Becca Hitchman,Tableau Services Manager Updates,Session,Tableau at Scale,No categories,female
+Manish Pathak,FICO: Joining Forces with Tableau to Help Marketers Understand their Customers and Optimize Engagement,Session,Data and Analytics Skills,Public Sector & Marketing,male
+Amy Esselman,FICO: Joining Forces with Tableau to Help Marketers Understand their Customers and Optimize Engagement,Session,Data and Analytics Skills,Public Sector & Marketing,female
+Melissa Pomeroy,St. Mary's Bank: Get your Head in the Cloud,Session,Data Culture,Financial Services,female
+Krista McKee,Takeda Pharmaceuticals: Putting Patients First with Tableau,Session,Embedded Analytics & Dashboard and Design,Healthcare,female
+Raveen Sharma,Takeda Pharmaceuticals: Putting Patients First with Tableau,Session,Embedded Analytics & Dashboard and Design,Healthcare,unknown
+Stephen Brobst,Best Practices in Governance for Enterprise Deployment of Analytics at Walmart,Session,No theme,No categories,male
+Heidi Daniels,Best Practices in Governance for Enterprise Deployment of Analytics at Walmart,Session,No theme,No categories,female
+Amanda Lapid,How Tableau uses Google Analytics,Session,Embedded Analytics,No categories,female
+Jamie Furr,BofA Merrill Lynch: Creating Efficiency AND Driving Revenue with Tableau,Session,Embedded Analytics,Financial Services & Sales,mostly_female
+Rahul Motwani,Deploying Tableau Mobile at Enterprise Scale,Session,Tableau at Scale,No categories,male
+Sham Dorairaj,Deploying Tableau Mobile at Enterprise Scale,Session,Tableau at Scale,No categories,male
+Kevin Taylor,Self-Service and Governance: The Art of Balance,Session,Data Culture,No categories,male
+Tyler Doyle,Understand your Tableau Assets with the Metadata API,Hands-on Training,Embedded Analytics & Tableau Community,No categories,mostly_male
+Graeme Britz,Make that Metadata Flow: Metadata API Discussion,Session,Embedded Analytics & Tableau Community,No categories,male
+Jason Oakes,Designing Efficient Workbooks: Live on Stage!,Session,Data and Analytics Skills,No categories,male
+Diane Lee,Cisco Systems: Dealing with Major Data Changes like a Game of Thrones,Session,Data Management,No categories,female
+Denise Asplund,Cisco Systems: Dealing with Major Data Changes like a Game of Thrones,Session,Data Management,No categories,female
+Dave Kopniske,KPIs,Hands-on Training,Dashboard and Design,No categories,male
+Anthony Young,KPIs,Hands-on Training,Dashboard and Design,No categories,male
+Arijit Sengupta,Aible: Supercharging Tableau with AI to Deliver Business Impact,Session,Smart Analytics,No categories,unknown
+Mark Langsfeld,Tooth Be Told: Drilling Into Data Using AI-powered Voice Analytics,Session,No theme,No categories,male
+Becky Master,Tooth Be Told: Drilling Into Data Using AI-powered Voice Analytics,Session,No theme,No categories,female
+Eli Blankers,Let's Talk about Sets: Set (and parameter) Actions,Hands-on Training,Data and Analytics Skills,No categories,female
+Rob Chapekis,Let's Talk about Sets: Set (and parameter) Actions,Hands-on Training,Data and Analytics Skills,No categories,male
+Michael Tsyvine,Booz Allen Hamilton: How One Difficult Decision Paved the Way for a Data and Analytics Revolution,Session,Data Culture,Public Sector,male
+Jason Lokkesmoe,Pearson and SDSU: Powering an Intelligence Revolution from the Ground up with AWS & Tableau,Session,Data Management,Education,male
+Maureen Guarcello,Pearson and SDSU: Powering an Intelligence Revolution from the Ground up with AWS & Tableau,Session,Data Management,Education,female
+Jason Eisman,Charles Schwab: Tableau for Corporate Risk Management and how we run our Tableau User Group,Session,Data Culture,Financial Services,male
+Marc Psaila,My Boss told me to Draw a Map: A Guide through Map Best Practices,Session,Data and Analytics Skills,No categories,male
+James Chen,Server CPR,Hands-on Training,Tableau at Scale,No categories,male
+Michael Correll,"Lies, Distortions, and Misrepresentations in Visualization",Session,Dashboard and Design,No categories,male
+Amanda Boyle,Creating a Tableau Community,Session,Data Culture,No categories,female
+Erin Simpler Kellett,Consumer Financial Protection Bureau: Analyzing Salesforce Data with Tableau,Session,Embedded Analytics,Public Sector,mostly_female
+Cathy Dumas,Building an Online Center of Excellence with Admin Insights,Session,Tableau at Scale,No categories,female
+Jock Mackinlay,Data Stories and Animation,Session,Dashboard and Design,No categories,male
+Amy Mikoleit,Data Catalog: Tidying up Tableau Server,Hands-on Training,Data Management,No categories,female
+Leah Purdy,Data Catalog: Tidying up Tableau Server,Hands-on Training,Data Management,No categories,female
+Christopher Wilkins,Tableau Server Security In-Depth,Session,Tableau at Scale,No categories,male
+John Blackie,Tableau Server Security In-Depth,Session,Tableau at Scale,No categories,male
+Klaus Schulte,"Zen Master: ""Surprise Me"" Creating Advanced and Unique Charts",Session,Dashboard and Design,No categories,male
+Ivett Kovacs,"Zen Master: ""Surprise Me"" Creating Advanced and Unique Charts",Session,Dashboard and Design,No categories,unknown
+Adam Rauh,"Stirred, not Shaken: The Perfect Data Blend",Hands-on Training,Data Management,No categories,male
+John Demby,CRM <3 Tableau Embedded Analytics,Session,Embedded Analytics & Tableau Community,No categories,male
+Jin Yao,Johnson County KS: Reduce EMS Frequent Users with Help from Location Intelligence,Session,Embedded Analytics,Healthcare & Public Sector,female
+Matt Coles,Stop. Joining. Repository. Tables. Just Stop.,Session,Tableau at Scale,No categories,male
+Aarati Sriram,Tinuiti: Using Tableau Prep Builder and Conductor to Wrangle Marketing Data,Session,Data Management,No categories,unknown
+Andrew Richardson,Tinuiti: Using Tableau Prep Builder and Conductor to Wrangle Marketing Data,Session,Data Management,No categories,male
+Michael Shen,Kaiser Permanente: Improving Diabetes Care with Data-Informed Insights,Session,Data Culture,Healthcare,male
+Jeremy Mayo,Embedding Tableau: A Deep Dive in the JavaScript API,Hands-on Training,Embedded Analytics & Tableau Community,No categories,male
+Melinda Lee,Data Server Data Governance: Designing a Well-Curated Data Source,Hands-on Training,Tableau at Scale,No categories,female
+JeNaye Johnson,Data Server Data Governance: Designing a Well-Curated Data Source,Hands-on Training,Tableau at Scale,No categories,unknown
+Joshua Milligan,Zen Master: Exploring and Using New Releases of Tableau and Tableau Prep,Session,Data Culture,No categories,male
+Gordon Marantz,Disney: Driving a Self-Service Culture through Architectural Innovation,Session,Embedded Analytics & Data Culture,No categories,male
+Paul Hockel,General Dynamics: Turning Military Intelligence into Business Intelligence,Session,Data Culture,Public Sector,male
+David Sigerson,How to Lie with Statistics,Session,Data and Analytics Skills,No categories,male
+Christophe Ortegat,A Voyage Through Embedded Analytics,Session,Embedded Analytics & Tableau Community,No categories,male
+Madhav Kannan,A Voyage Through Embedded Analytics,Session,Embedded Analytics & Tableau Community,No categories,male
+Sasha Singh,Scaffolding: The Solution to Tough Time-Based Problems,Session,Data Management,No categories,mostly_male
+Tyler May,"Stirred, not Shaken: The Perfect Data Blend",Hands-on Training,Data Management,No categories,mostly_male
+Ben Saitz,Tableau Tech Support on Tableau,Session,Data Culture,No categories,male
+Brett Megaard,Tableau Tech Support on Tableau,Session,Data Culture,No categories,male
+Kimberly Coutts,MiraCosta College's Superheroes are Turning Data into Action Figures,Session,Dashboard and Design,Education,mostly_female
+Lisa Trescott,MiraCosta College's Superheroes are Turning Data into Action Figures,Session,Dashboard and Design,Education,female
+Gerson Vasquez,"U.S. Census Bureau: The Data That Powers Our Democracy, Can Also Power Your Visualization",Session,Tableau Community & Data and Analytics Skills,Public Sector,male
+Ryan Dolan,"U.S. Census Bureau: The Data That Powers Our Democracy, Can Also Power Your Visualization",Session,Tableau Community & Data and Analytics Skills,Public Sector,mostly_male
+Chris Shin,Integrate Tableau into Custom Workflows,Hands-on Training,Embedded Analytics & Tableau Community,No categories,mostly_male
+Priya Reguraman,Integrate Tableau into Custom Workflows,Hands-on Training,Embedded Analytics & Tableau Community,No categories,female
+Reed Walton ,Embedded Analytics with Tableau (for Tableau Partners only),Session,Embedded Analytics,No categories,male
+Phil D'Amico,Embedded Analytics with Tableau (for Tableau Partners only),Session,Embedded Analytics,No categories,male
+Chris Bullock,Seeing and Understanding Your AWS Journey with Tableau,Session,Tableau at Scale,No categories,mostly_male
+Claire Folks,Dazzling Dashboards: Finesse your Format,Hands-on Training,Dashboard and Design,No categories,female
+Duncan Wingfield,Dazzling Dashboards: Finesse your Format,Hands-on Training,Dashboard and Design,No categories,male
+Archana Ganeshalingam,Scaffolding: The Solution to Tough Time-Based Problems,Session,Data Management,No categories,female
+Tanushree Rohera,Monkeying about with Survey Data in Tableau Prep,Session,Data Management,No categories,unknown
+Madeleine Thompson,Your Data Does Not Tell You That,Session,Data and Analytics Skills,No categories,female
+David Furst,Wells Fargo Advisors: How we use Tableau for just about everything.,Session,Data Culture & Dashboard and Design,Financial Services,male
+John Miller,Wells Fargo Advisors: How we use Tableau for just about everything.,Session,Data Culture & Dashboard and Design,Financial Services,male
+Stefan Kaminski,T-Mobile US: Churn Analysis Toolkit,Session,Data and Analytics Skills,No categories,male
+Jazmyn Li,Understand Server Tools (for Tableau Partners only),Session,Tableau at Scale,No categories,female
+Jim Multari,Comcast: Measuring and Visualizing Sales Excellence,Session,Data Management & Data Culture,Sales,male
+Yasmine Ndassa,Comcast: Measuring and Visualizing Sales Excellence,Session,Data Management & Data Culture,Sales,female
+Sean Li,From License to Landing,Session,Tableau at Scale,No categories,male
+Edwin Deleon,Google BigQuery ML in Tableau,Session,Embedded Analytics,No categories,male
+Monica Willbrand,Google BigQuery ML in Tableau,Session,Embedded Analytics,No categories,female
+Sandlin Seguin,What Tech Support Wishes You Knew About Your Deployment,Session,Tableau at Scale,No categories,unknown
+Daniel Graef,What Tech Support Wishes You Knew About Your Deployment,Session,Tableau at Scale,No categories,male
+Mathew Luebbert,Sets on the Beach,Session,Data and Analytics Skills,No categories,male
+Jonathan Drummey,Zen Master: You Did What to your Data? A Deep Dive into Imputing and Densifying Data,Session,Dashboard and Design & Data and Analytics Skills,No categories,male
+Nadia Chung,City of Hope: Using Tableau to Improve Data Utilization and Make Data-Driven Decisions in a Cohort Study,Session,Tableau Community,Healthcare,female
+Emma Spielfogel,City of Hope: Using Tableau to Improve Data Utilization and Make Data-Driven Decisions in a Cohort Study,Session,Tableau Community,Healthcare,female
+Rajesh Garudammagari,Honeywell: Transformation Towards Self-Service Digital Analytics,Session,Data Culture,No categories,male
+Jessica Toney,Calling All New Tableau Users,Hands-on Training,Data and Analytics Skills,No categories,female
+Tim Lens,Calling All New Tableau Users,Hands-on Training,Data and Analytics Skills,No categories,male
+Steven Safreno,Leveraging Full Potential of Tableau with Extracts,Hands-on Training,Data Management & Embedded Analytics & Tableau Community,No categories,male
+Valeri Kim,Leveraging Full Potential of Tableau with Extracts,Hands-on Training,Data Management & Embedded Analytics & Tableau Community,No categories,male
+Brodie Dore,Ochsner Health System: Putting Patients First and Learning from our Patient’s Satisfaction Scores,Session,Data Culture & Data and Analytics Skills,Healthcare,male
+Marina Brazhnikova,Ochsner Health System: Putting Patients First and Learning from our Patient’s Satisfaction Scores,Session,Data Culture & Data and Analytics Skills,Healthcare,female
+Robert Dahl,Charles Schwab: How Our Interaction Analytics Enabled Self Service Call Volume Prediction and Tracking,Session,Data Culture & Dashboard and Design,Financial Services,male
+Hilary Feier,Shoot the Moon! Small Steps and Giant Leaps Towards a Modern Culture of Data,Session,Data Culture,No categories,female
+Amy Song,GoDaddy: GoData Web Analytics Lessons Learned,Session,Data and Analytics Skills,Marketing,female
+Michael Holcomb,Enabling Everyone to Proficiency,Session,Data Culture,No categories,male
+Ivan Coelho,"When Sets Rock, When Parameters Roll",Session,Data and Analytics Skills,No categories,male
+Lovekesh Babbar,Best Practices for Dashboard Performance,Session,Dashboard and Design,No categories,unknown
+Robert Brewer,Tableau Server on Linux 2019 Update,Session,Tableau at Scale,No categories,male
+Bernhard Damberger,Tableau Server on Linux 2019 Update,Session,Tableau at Scale,No categories,male
+Jack Mardack,Attributes of a Modern Data Warehouse: What it Takes to do Enterprise-class Analytics Workloads,Session,No theme,No categories,male
+Justin Kruger,Optimal Sales Territory Planning,Session,Data and Analytics Skills,Sales,male
+Hunter Barcello,Optimal Sales Territory Planning,Session,Data and Analytics Skills,Sales,mostly_male
+Jill Hutchinson,The Better Builder: Automating Data Preparation with Prep Builder and Conductor,Session,Smart Analytics,No categories,female
+Daniel Davis,Tapestry Inc: Productizing Data Science with Tableau and AWS,Session,Embedded Analytics,No categories,male
+Dustin Schimek,The Master Lock Company: How 8020 and Tableau Simplified Master Lock's Business,Session,Data Culture,No categories,male
+Katie Hermann,The Master Lock Company: How 8020 and Tableau Simplified Master Lock's Business,Session,Data Culture,No categories,female
+David Sears,"Ice, Ice, Baby: Cubes, Tableau and OLAP Data",Hands-on Training,Data Management,No categories,male
+Bill Buttling,"Ice, Ice, Baby: Cubes, Tableau and OLAP Data",Hands-on Training,Data Management,No categories,male
+Patrick VanderKnyff,Connector Plugins: How I Learned to Stop Worrying and Love the Taco,Session,Embedded Analytics & Data Management & Tableau Community,No categories,male
+Stephen Lin,Connector Plugins: How I Learned to Stop Worrying and Love the Taco,Session,Embedded Analytics & Data Management & Tableau Community,No categories,male
+Grant Joseph,Templating in Tableau: Introducing the Content Migration Tool,Hands-on Training,Tableau at Scale,No categories,male
+Nnenna Nwagbo,Templating in Tableau: Introducing the Content Migration Tool,Hands-on Training,Tableau at Scale,No categories,unknown
+Anchit Singh,Fundbox: Making Data Democratic and Driving a Data-Driven Decision Culture,Session,Data Culture,Financial Services,unknown
+Bryce Gartner,Tableau Fully Evolved: Expanding Tableau’s Capabilities to Drive Innovation,Session,No theme,No categories,mostly_male
+Jimmy Garrett,What Happens in Alteryx Slays in Tableau,Hands-on Training,No theme,No categories,male
+Brandon Bak,What Happens in Alteryx Slays in Tableau,Hands-on Training,No theme,No categories,male
+Hemanth Srinivas,Enhance Your Enterprise Capabilities with the Tableau Server Management Add-on,Session,Tableau at Scale,No categories,unknown
+Richard Fayers,"Embedding Tableau Dashboards in Salesforce: Elsevier Creates a Seamless, User-friendly Reporting Experience",Session,Embedded Analytics,No categories,male
+Tom Perry,"Embedding Tableau Dashboards in Salesforce: Elsevier Creates a Seamless, User-friendly Reporting Experience",Session,Embedded Analytics,No categories,male
+Bruce Landay,Schneider Electric: Tableau User Engagement Journey for North American Global Supply Chain,Session,Tableau at Scale & Data Culture,No categories,male
+Hannah Tikalsky,LifeLong Medical Care: Let's Go Apple Picking for Clinical Quality Measures!,Session,Tableau Community,Healthcare,female
+Pavels Kilivniks,LinkedIn: How Tableau helped us drive business outcomes at scale,Session,Data and Analytics Skills,Sales,male
+Sean Mann,Tableau Extensions Security and Administration,Session,Embedded Analytics & Tableau Community,No categories,male
+Nikhil Lakshman,Tableau Extensions Security and Administration,Session,Embedded Analytics & Tableau Community,No categories,male
+Issa Beekun,Data Prep Introduction: Learn the Basics,Session,Data Management,No categories,male
+Joe Bush,Bank of America: The Workforce Analytics Teams Bring It All Together,Session,Dashboard and Design,Financial Services,male
+Jason White,Bank of America: The Workforce Analytics Teams Bring It All Together,Session,Dashboard and Design,Financial Services,male
+Gary Gruccio,"Signet Jewelers: Path to Brilliance, Building an Analytical Center of Excellence",Session,Data Culture,No categories,male
+Ian Reed,"Signet Jewelers: Path to Brilliance, Building an Analytical Center of Excellence",Session,Data Culture,No categories,male
+Hendrik Kleine,UnitedHealth Group: Delivering Statistical Controls and Performance Insights at Scale,Session,Data and Analytics Skills & Data Culture,Healthcare,male
+Tamas Foldi,Zen Master: Taking Tableau to the Extreme by using Extensions API to do anything you want,Session,Embedded Analytics,No categories,male
+Chris DeMartini,Zen Master: Taking Tableau to the Extreme by using Extensions API to do anything you want,Session,Embedded Analytics,No categories,mostly_male
+George Fraser,Cloud Data Warehousing: It's Time to Re-think Your Data Architecture,Session,No theme,No categories,male
+Christopher Robinson,You've Been Served! Simplifying Tableau Server Administration,Hands-on Training,Tableau at Scale,No categories,male
+Miles Freeborn,You've Been Served! Simplifying Tableau Server Administration,Hands-on Training,Tableau at Scale,No categories,male
+Jamie Lahiere,"Whole Foods Market: How We Engaged 10,000 People to Effect a Transformation",Session,Data Culture,Retail,mostly_female
+Samantha Lin,Five Steps to Fabulous Dashboards: Tips and Tricks Part 2,Session,Dashboard and Design,No categories,female
+Tom Christian,Five Steps to Fabulous Dashboards: Tips and Tricks Part 2,Session,Dashboard and Design,No categories,male
